@@ -1,4 +1,4 @@
-{% set version = "0.22.0" %}
+{% set version = "0.22.1" %}
 
 package:
   name: gersemi
@@ -6,7 +6,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/g/gersemi/gersemi-{{ version }}.tar.gz
-  sha256: 257ca8bc8fc578996aeb90b510f7a6439240e62251177c4873c9453728db321e
+  sha256: 9679d801f7293d162201bffae860707ca5a53f35c9f0063f62f5cbb834f66da8
 
 build:
   entry_points:
