@@ -28,6 +28,7 @@ requirements:
     - python >=${{ python_min }}
     - appdirs
     - lark
+    - platformdirs
     - pyyaml
 
 tests:
