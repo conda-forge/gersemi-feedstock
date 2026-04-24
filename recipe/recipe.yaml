@@ -1,7 +1,7 @@
 schema_version: 1
 
 context:
-  version: "0.24.0"
+  version: "0.25.1"
 
 package:
   name: gersemi
@@ -9,7 +9,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/g/gersemi/gersemi-${{ version }}.tar.gz
-  sha256: 2b39554605cefb39438b2d1b84d488d35bfdff6a71f985dba85151104f0846af
+  sha256: a119f5ff0c5133b25e72a5c39f7722535741cb311f66ae17bf1aaf1d1190751a
 
 build:
   number: 0
